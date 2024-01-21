@@ -1,6 +1,6 @@
 Detecting Credit Card Fraud using ensemble methods in near real-time
 
-# Credit Card Fraud Detection using ensemble methods in Zimbabwe
+# Credit Card Fraud Detection using ensemble methods
 
 
 # The Problem:
